@@ -62,7 +62,7 @@ Before starting, ensure that you have the following installed:
 
 
 ```bash
-git clone https://github.com/yourusername/cocktail-sharing-app.git
+git clone git@github.com:pedrole/cocktails-app.git
 cd cocktail-sharing-app
 ```
 
